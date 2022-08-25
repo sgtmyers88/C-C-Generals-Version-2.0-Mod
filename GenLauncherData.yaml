@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: C&C Generals Version 2.0
+Version: 1.0
+SimpleDownloadLink: https://onedrive.live.com/embed?cid=8788D1B668C9AF2A&resid=8788D1B668C9AF2A%21516&authkey=AGE6yvAp4YvY_tk
+UIImageSourceLink: https://www.moddb.com/members/sgtmyers88/images/generals-v20-banner-for-genlauncher
+DiscordLink: https://discord.com/channels/886293575128739860/938734627261141012
+ModDBLink: https://www.moddb.com/mods/command-conquer-generals-version-20
+NewsLink: https://www.moddb.com/mods/command-conquer-generals-version-20/articles
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: tbredux
+S3FolderName: genszhv20
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: ''
